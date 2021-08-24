@@ -11,4 +11,3 @@ plt.title("Python Marks for 5 students")
 plt.xlabel("Names")
 plt.ylabel("Marks (in %)")
 plt.show()
-
